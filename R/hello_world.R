@@ -11,5 +11,5 @@ discret <- function() {
   )
   
   discretized_data <- mdlp(data)
-  print(data$cutp[[1]])
+  print(discretized_data$cutp[[1]])
 }
