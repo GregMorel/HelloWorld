@@ -1,0 +1,9 @@
+Package: HelloWorld
+Type: Package
+Title: A simple Hello World package
+Version: 0.1.0
+Author: Votre Nom
+Maintainer: Votre Nom <votre@email.com>
+Description: A simple package that prints "Hello, World!".
+License: What license it uses
+RoxygenNote: 7.2.3
